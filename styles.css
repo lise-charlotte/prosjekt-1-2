@@ -5,8 +5,13 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: black;
+  color: rgb(255, 255, 255);
+  text-align: center;
   background-color: white;
+  background-image:url("sky-full-of-stars.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 nav {
