@@ -21,24 +21,25 @@ nav {
   justify-content: center;
   padding: 0.5rem;
   gap: 0.5rem;
-  border-bottom: solid 1px #aaa;
-  background-color: #eee;
+  border-bottom: solid 1px #0a2279;
+  background-color: #0a2279;
 }
 
 nav a {
   display: inline-block;
   min-width: 9rem;
   padding: 0.5rem;
+  gap: 0.5rem;
   border-radius: 0.2rem;
-  border: solid 1px #aaa;
+  border: solid 1px #0a2279;
   text-align: center;
   text-decoration: none;
-  color: #555;
+  color: #2e2e2e;
 }
 
 nav a[aria-current='page'] {
-  color: #000;
-  background-color: #d4d4d4;
+  color: #c4d1ff;
+  background-color: #535353;
 }
 
 main {
