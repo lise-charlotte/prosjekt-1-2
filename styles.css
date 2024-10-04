@@ -34,12 +34,12 @@ nav a {
   border: solid 1px #0a2279;
   text-align: center;
   text-decoration: none;
-  color: #2e2e2e;
+  color: #c4d1ff;
 }
 
 nav a[aria-current='page'] {
   color: #c4d1ff;
-  background-color: #535353;
+  background-color: #4962bb;
 }
 
 main {
